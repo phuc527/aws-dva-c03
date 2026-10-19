@@ -1,4 +1,4 @@
-# Day 58 (T4 6/1): **Mock exam #2**
+# Day 58 (T5 7/1): **Mock exam #2**
 
 **Chi phí:** 🟢
 

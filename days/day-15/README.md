@@ -1,4 +1,4 @@
-# Day 15 (T6 6/11): Lambda: handler, runtime, execution role
+# Day 15 (T2 9/11): Lambda: handler, runtime, execution role
 
 **Chi phí:** 🟢
 

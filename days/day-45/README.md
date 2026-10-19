@@ -1,4 +1,4 @@
-# Day 45 (T6 18/12): AWS SAM
+# Day 45 (T2 21/12): AWS SAM
 
 **Chi phí:** 🟢
 

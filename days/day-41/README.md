@@ -1,4 +1,4 @@
-# Day 41 (T2 14/12): Security best practices trong code
+# Day 41 (T3 15/12): Security best practices trong code
 
 **Chi phí:** 🟢
 

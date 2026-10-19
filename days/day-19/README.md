@@ -1,4 +1,4 @@
-# Day 19 (T5 12/11): Lambda trong VPC (lý thuyết), container image
+# Day 19 (T6 13/11): Lambda trong VPC (lý thuyết), container image
 
 **Chi phí:** 🟢
 

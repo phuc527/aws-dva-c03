@@ -1,4 +1,4 @@
-# Day 44 (T5 17/12): Change sets, nested stacks, exports, drift
+# Day 44 (T6 18/12): Change sets, nested stacks, exports, drift
 
 **Chi phí:** 🟢
 

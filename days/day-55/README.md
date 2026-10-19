@@ -1,4 +1,4 @@
-# Day 55 (T6 1/1): Tối ưu: Power Tuning, hot partition
+# Day 55 (T2 4/1): Tối ưu: Power Tuning, hot partition
 
 **Chi phí:** 🟢
 

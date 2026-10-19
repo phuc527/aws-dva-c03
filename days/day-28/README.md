@@ -1,4 +1,4 @@
-# Day 28 (T4 25/11): **Mini project**
+# Day 28 (T5 26/11): **Mini project**
 
 **Chi phí:** 🟢
 

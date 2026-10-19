@@ -1,4 +1,4 @@
-# Day 54 (T5 31/12): CloudTrail, lỗi hay gặp (throttling, 4xx/5xx, timeout)
+# Day 54 (T6 1/1): CloudTrail, lỗi hay gặp (throttling, 4xx/5xx, timeout)
 
 **Chi phí:** 🟢
 

@@ -1,4 +1,4 @@
-# Day 31 (T2 30/11): EventBridge rules, bus, scheduler
+# Day 31 (T3 1/12): EventBridge rules, bus, scheduler
 
 **Chi phí:** 🟢
 

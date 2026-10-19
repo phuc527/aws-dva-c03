@@ -1,4 +1,4 @@
-# Day 47 (T3 22/12): Source + CodeBuild (buildspec.yml)
+# Day 47 (T4 23/12): Source + CodeBuild (buildspec.yml)
 
 **Chi phí:** 🟢
 

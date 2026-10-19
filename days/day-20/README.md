@@ -1,4 +1,4 @@
-# Day 20 (T6 13/11): API GW REST: stage, integration, mapping template
+# Day 20 (T2 16/11): API GW REST: stage, integration, mapping template
 
 **Chi phí:** 🟢
 

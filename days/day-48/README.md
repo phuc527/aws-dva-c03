@@ -1,4 +1,4 @@
-# Day 48 (T4 23/12): CodeDeploy: appspec, hooks, blue/green, canary
+# Day 48 (T5 24/12): CodeDeploy: appspec, hooks, blue/green, canary
 
 **Chi phí:** 🟢
 

@@ -1,4 +1,4 @@
-# Day 11 (T2 2/11): Presigned URL, multipart upload, S3 events
+# Day 11 (T3 3/11): Presigned URL, multipart upload, S3 events
 
 **Chi phí:** 🟢
 

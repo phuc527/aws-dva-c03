@@ -1,4 +1,4 @@
-# Day 33 (T4 2/12): Kinesis Data Streams / Firehose
+# Day 33 (T5 3/12): Kinesis Data Streams / Firehose
 
 **Chi phí:** 🔵/🟡
 

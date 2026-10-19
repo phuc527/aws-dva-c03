@@ -1,4 +1,4 @@
-# Day 26 (T2 23/11): ElastiCache, caching strategies
+# Day 26 (T3 24/11): ElastiCache, caching strategies
 
 **Chi phí:** 🔵
 

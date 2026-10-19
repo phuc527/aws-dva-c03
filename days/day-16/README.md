@@ -1,4 +1,4 @@
-# Day 16 (T2 9/11): Memory/timeout, env vars, layers
+# Day 16 (T3 10/11): Memory/timeout, env vars, layers
 
 **Chi phí:** 🟢
 

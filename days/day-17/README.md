@@ -1,4 +1,4 @@
-# Day 17 (T3 10/11): Versions, aliases, weighted traffic
+# Day 17 (T4 11/11): Versions, aliases, weighted traffic
 
 **Chi phí:** 🟢
 

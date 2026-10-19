@@ -1,4 +1,4 @@
-# Day 10 (T6 30/10): S3 security: bucket policy, SSE-S3/KMS/C, CORS
+# Day 10 (T2 2/11): S3 security: bucket policy, SSE-S3/KMS/C, CORS
 
 **Chi phí:** 🟢
 

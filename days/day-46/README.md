@@ -1,4 +1,4 @@
-# Day 46 (T2 21/12): AWS CDK
+# Day 46 (T3 22/12): AWS CDK
 
 **Chi phí:** 🟢
 

@@ -1,4 +1,4 @@
-# Day 32 (T3 1/12): Step Functions Standard/Express
+# Day 32 (T4 2/12): Step Functions Standard/Express
 
 **Chi phí:** 🟢
 

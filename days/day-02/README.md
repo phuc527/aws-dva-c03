@@ -1,4 +1,4 @@
-# Day 02 (T3 20/10): IAM users/groups/policies
+# Day 02 (T4 21/10): IAM users/groups/policies
 
 **Chi phí:** 🟢
 

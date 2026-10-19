@@ -1,4 +1,4 @@
-# Day 25 (T6 20/11): Streams, TTL, DAX (lý thuyết)
+# Day 25 (T2 23/11): Streams, TTL, DAX (lý thuyết)
 
 **Chi phí:** 🟢
 

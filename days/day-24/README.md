@@ -1,4 +1,4 @@
-# Day 24 (T5 19/11): Conditional writes, optimistic locking, transactions
+# Day 24 (T6 20/11): Conditional writes, optimistic locking, transactions
 
 **Chi phí:** 🟢
 

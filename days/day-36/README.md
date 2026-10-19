@@ -1,4 +1,4 @@
-# Day 36 (T2 7/12): Cognito User Pools, JWT, hosted UI
+# Day 36 (T3 8/12): Cognito User Pools, JWT, hosted UI
 
 **Chi phí:** 🟢
 

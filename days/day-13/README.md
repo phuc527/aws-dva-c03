@@ -1,4 +1,4 @@
-# Day 13 (T4 4/11): Elastic Beanstalk
+# Day 13 (T5 5/11): Elastic Beanstalk
 
 **Chi phí:** 🟡
 

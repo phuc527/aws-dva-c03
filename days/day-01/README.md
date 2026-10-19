@@ -1,4 +1,4 @@
-## Day 1 (Thứ Hai 19/10): Global infra, Free plan, Billing an toàn
+## Day 1 (Thứ Ba 20/10): Global infra, Free plan, Billing an toàn
 **Lý thuyết (45'):**
 1. Đọc *Exam Guide DVA-C03*, ghi lại các domain và tỉ trọng.
 2. Region / AZ / Edge location; mô hình Shared Responsibility.

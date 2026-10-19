@@ -1,4 +1,4 @@
-# Day 59 (T5 7/1): Flashcard số liệu và giới hạn (Lambda 15', SQS 256KB, DynamoDB item 400KB, API GW timeout...)
+# Day 59 (T6 8/1): Flashcard số liệu và giới hạn (Lambda 15', SQS 256KB, DynamoDB item 400KB, API GW timeout...)
 
 **Chi phí:** 🟢
 

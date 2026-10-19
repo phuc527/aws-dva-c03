@@ -1,4 +1,4 @@
-# Day 43 (T4 16/12): CloudFormation: params, outputs, intrinsic functions
+# Day 43 (T5 17/12): CloudFormation: params, outputs, intrinsic functions
 
 **Chi phí:** 🟢
 

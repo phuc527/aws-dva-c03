@@ -1,4 +1,4 @@
-# Day 51 (T2 28/12): CloudWatch Logs, custom metrics, EMF, alarms
+# Day 51 (T3 29/12): CloudWatch Logs, custom metrics, EMF, alarms
 
 **Chi phí:** 🟢
 

@@ -1,4 +1,4 @@
-# Day 29 (T5 26/11): SQS standard/FIFO, visibility timeout, long polling, DLQ
+# Day 29 (T6 27/11): SQS standard/FIFO, visibility timeout, long polling, DLQ
 
 **Chi phí:** 🟢
 

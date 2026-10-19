@@ -1,4 +1,4 @@
-# Day 38 (T4 9/12): KMS, envelope encryption
+# Day 38 (T5 10/12): KMS, envelope encryption
 
 **Chi phí:** 🟡
 

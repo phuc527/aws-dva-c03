@@ -1,4 +1,4 @@
-# Day 18 (T4 11/11): Concurrency, cold start, async, DLQ/destinations
+# Day 18 (T5 12/11): Concurrency, cold start, async, DLQ/destinations
 
 **Chi phí:** 🟢
 

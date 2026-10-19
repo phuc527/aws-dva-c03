@@ -1,4 +1,4 @@
-# Day 09 (T5 29/10): S3: storage class, versioning, lifecycle
+# Day 09 (T6 30/10): S3: storage class, versioning, lifecycle
 
 **Chi phí:** 🟢
 

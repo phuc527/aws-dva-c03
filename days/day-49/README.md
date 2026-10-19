@@ -1,4 +1,4 @@
-# Day 49 (T5 24/12): CodePipeline, AppConfig
+# Day 49 (T6 25/12): CodePipeline, AppConfig
 
 **Chi phí:** 🟢
 

@@ -1,4 +1,4 @@
-# Day 37 (T3 8/12): Identity Pools, API GW authorizers
+# Day 37 (T4 9/12): Identity Pools, API GW authorizers
 
 **Chi phí:** 🟢
 

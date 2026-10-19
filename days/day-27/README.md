@@ -1,4 +1,4 @@
-# Day 27 (T3 24/11): RDS, RDS Proxy (lý thuyết), Secrets Manager
+# Day 27 (T4 25/11): RDS, RDS Proxy (lý thuyết), Secrets Manager
 
 **Chi phí:** 🟡
 

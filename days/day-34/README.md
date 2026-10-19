@@ -1,4 +1,4 @@
-# Day 34 (T5 3/12): AppSync / GraphQL
+# Day 34 (T6 4/12): AppSync / GraphQL
 
 **Chi phí:** 🟢
 

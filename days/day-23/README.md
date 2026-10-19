@@ -1,4 +1,4 @@
-# Day 23 (T4 18/11): Query vs Scan, LSI/GSI, projection
+# Day 23 (T5 19/11): Query vs Scan, LSI/GSI, projection
 
 **Chi phí:** 🟢
 

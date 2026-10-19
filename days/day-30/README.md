@@ -1,4 +1,4 @@
-# Day 30 (T6 27/11): SNS fan-out, filter policy
+# Day 30 (T2 30/11): SNS fan-out, filter policy
 
 **Chi phí:** 🟢
 

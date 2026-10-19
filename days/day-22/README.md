@@ -1,4 +1,4 @@
-# Day 22 (T3 17/11): DynamoDB: PK/SK, RCU/WCU, on-demand vs provisioned
+# Day 22 (T4 18/11): DynamoDB: PK/SK, RCU/WCU, on-demand vs provisioned
 
 **Chi phí:** 🟢
 

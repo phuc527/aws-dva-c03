@@ -1,4 +1,4 @@
-# Day 06 (T2 26/10): Permission boundary, condition keys, ABAC
+# Day 06 (T3 27/10): Permission boundary, condition keys, ABAC
 
 **Chi phí:** 🟢
 

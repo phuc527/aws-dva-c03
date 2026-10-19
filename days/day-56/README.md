@@ -1,4 +1,4 @@
-# Day 56 (T2 4/1): Mock exam #1 (65 câu, 130')
+# Day 56 (T3 5/1): Mock exam #1 (65 câu, 130')
 
 **Chi phí:** 🟢
 

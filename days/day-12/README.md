@@ -1,4 +1,4 @@
-# Day 12 (T3 3/11): S3 static website + CloudFront OAC
+# Day 12 (T4 4/11): S3 static website + CloudFront OAC
 
 **Chi phí:** 🟢
 

@@ -1,4 +1,4 @@
-# Day 39 (T5 10/12): Secrets Manager vs SSM Parameter Store
+# Day 39 (T6 11/12): Secrets Manager vs SSM Parameter Store
 
 **Chi phí:** 🟢
 

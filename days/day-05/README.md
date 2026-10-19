@@ -1,4 +1,4 @@
-# Day 05 (T6 23/10): SDK (boto3 / JS v3), pagination, retry/backoff
+# Day 05 (T2 26/10): SDK (boto3 / JS v3), pagination, retry/backoff
 
 **Chi phí:** 🟢
 

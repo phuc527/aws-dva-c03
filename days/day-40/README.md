@@ -1,4 +1,4 @@
-# Day 40 (T6 11/12): Encryption in transit, ACM, cross-account
+# Day 40 (T2 14/12): Encryption in transit, ACM, cross-account
 
 **Chi phí:** 🟢
 

@@ -1,4 +1,4 @@
-# Day 50 (T6 25/12): ECR, ECS/Fargate, task role vs execution role
+# Day 50 (T2 28/12): ECR, ECS/Fargate, task role vs execution role
 
 **Chi phí:** 🟡
 

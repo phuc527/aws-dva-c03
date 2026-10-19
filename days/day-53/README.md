@@ -1,4 +1,4 @@
-# Day 53 (T4 30/12): X-Ray: segments, annotations, sampling
+# Day 53 (T5 31/12): X-Ray: segments, annotations, sampling
 
 **Chi phí:** 🟢
 

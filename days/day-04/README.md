@@ -1,4 +1,4 @@
-# Day 04 (T5 22/10): CLI profiles, credential provider chain
+# Day 04 (T6 23/10): CLI profiles, credential provider chain
 
 **Chi phí:** 🟢
 

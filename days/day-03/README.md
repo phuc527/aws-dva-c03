@@ -1,4 +1,4 @@
-# Day 03 (T4 21/10): IAM Roles, trust policy, STS
+# Day 03 (T5 22/10): IAM Roles, trust policy, STS
 
 **Chi phí:** 🟢
 

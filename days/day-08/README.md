@@ -1,4 +1,4 @@
-# Day 08 (T4 28/10): EC2, IMDSv2, user data
+# Day 08 (T5 29/10): EC2, IMDSv2, user data
 
 **Chi phí:** 🟢
 

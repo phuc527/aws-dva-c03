@@ -1,4 +1,4 @@
-# Day 21 (T2 16/11): Throttling, usage plan, API key, caching, HTTP API
+# Day 21 (T3 17/11): Throttling, usage plan, API key, caching, HTTP API
 
 **Chi phí:** 🟢
 

@@ -1,4 +1,4 @@
-# Day 60 (T6 8/1): Nghỉ nhẹ, đọc lại câu sai
+# Day 60 (T2 11/1): Nghỉ nhẹ, đọc lại câu sai
 
 **Chi phí:** 🟢
 
