@@ -1,7 +1,7 @@
 # Roadmap AWS Developer Associate (DVA-C03): 60 ngày, ngày nào cũng có lab
 
 **Lịch học:** học **Thứ Hai – Thứ Sáu**, nghỉ cuối tuần, tổng cộng 12 tuần. Day 1 = **Thứ Ba 20/10/2026** → Day 60 = **Thứ Hai 11/01/2027**. Credit Free plan còn đến 09/03/2027 nên vẫn đủ.
-Từ ngày 1/1 trở đi là năm 2027. Ngày 1/1 nếu nghỉ Tết thì dời các day phía sau lùi lại 1 ngày.
+Từ ngày 1/1 trở đi là năm 2027. Day 54 rơi vào 1/1 (Tết), nếu nghỉ thì dời các day phía sau lùi lại 1 ngày.
 
 > **Lưu ý:** Đối chiếu lại với *Exam Guide* chính thức của DVA-C03 trên aws.amazon.com/certification. Roadmap này bám theo 4 domain của dòng DVA: (1) Development with AWS Services, (2) Security, (3) Deployment, (4) Troubleshooting & Optimization.
 
